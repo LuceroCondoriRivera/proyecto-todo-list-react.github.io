@@ -73,5 +73,5 @@ pnpm dev          # http://localhost:5173
 
 | Integrante | GitHub 
 |---|---|---|
-| Lucero condori Rivera | [_@usuario_ ](https://github.com/LuceroCondoriRivera)
+| Lucero condori Rivera | https://github.com/LuceroCondoriRivera
 
