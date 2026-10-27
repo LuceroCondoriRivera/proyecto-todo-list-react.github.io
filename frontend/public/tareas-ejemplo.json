@@ -1,0 +1,6 @@
+[
+  { "id": "ejemplo-1", "text": "Crear la branch maqueta y armar el diseño", "completed": true },
+  { "id": "ejemplo-2", "text": "Agregar una tarea nueva desde el formulario", "completed": false },
+  { "id": "ejemplo-3", "text": "Marcar una tarea como completada", "completed": false },
+  { "id": "ejemplo-4", "text": "Eliminar esta tarea de ejemplo", "completed": false }
+]
