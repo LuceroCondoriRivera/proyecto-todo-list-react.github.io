@@ -2,8 +2,7 @@
 
 Aplicación hecha con **React + Vite** para crear tareas, marcarlas como completadas ✔, eliminarlas 🗑 y filtrarlas. Todo se guarda en **localStorage**.
 
-🔗 **Demo:** _pega aquí el link del deploy_
-📂 **Repositorio:** _pega aquí el link de GitHub_
+🔗 **Demo:** 
 
 ## Funcionalidades
 
@@ -72,16 +71,7 @@ pnpm dev          # http://localhost:5173
 
 ## Equipo
 
-| Integrante | GitHub | Funcionalidad principal |
+| Integrante | GitHub 
 |---|---|---|
-| _Nombre_ | _@usuario_ | _maqueta_ |
-| _Nombre_ | _@usuario_ | _agregar-tarea_ |
-| _Nombre_ | _@usuario_ | _eliminar-tarea / completar-tarea_ |
-| _Nombre_ | _@usuario_ | _filtrar-tareas / localStorage_ |
+| Lucero condori Rivera | [_@usuario_ ](https://github.com/LuceroCondoriRivera)
 
-## Documentación
-
-1. [Paso a paso para levantar todo](docs/01-PASO-A-PASO.md)
-2. [Flujo de Git, ramas, commits y PRs](docs/02-FLUJO-GIT-Y-PRS.md)
-3. [Deploy](docs/03-DEPLOY.md)
-4. [Checklist para la nota 10](docs/04-CHECKLIST-NOTA-10.md)
